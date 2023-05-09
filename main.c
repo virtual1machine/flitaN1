@@ -35,7 +35,6 @@ int main(void)
 
 int GetInteger(void)
 {
-
 }
 
 bool InputValidation(char *string, int *integer)
